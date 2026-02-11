@@ -285,6 +285,3 @@ Script Analysis → File Permission Exploitation → Root Access
 - **Sudo** - Privilege escalation vector
 
 ---
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3186403" style="border:none;"></iframe>
-

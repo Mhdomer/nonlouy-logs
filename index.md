@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "nonlouy-lab"
+title: "nonlouy-blog"
 permalink: /lab/
 ---
 
 # Welcome to nonlouy-blog
 
-Hey, I'm **Muhamed Omar**. This is my personal learning lab where I document my journey through cybersecurity, networking, and projects.
+Hey, I'm **Muhamed Omar**. This is my personal learning blog where I document my journey through cybersecurity, networking, and projects.
 
 ## Navigation
 

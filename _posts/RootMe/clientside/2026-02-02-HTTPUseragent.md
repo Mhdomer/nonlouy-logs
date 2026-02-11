@@ -38,7 +38,6 @@ paginate: true
 **Finished.. Happy hacking!**
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3186403" style="border:none;"></iframe>
 
 Follow me:
 - [LinkedIn](https://www.linkedin.com/in/mhd3omar/)
@@ -46,4 +45,3 @@ Follow me:
 
 
 
----

@@ -46,4 +46,3 @@ Follow me:
 - [LinkedIn](https://www.linkedin.com/in/mhd3omar/)  
 - [X](https://x.com/Md3omer)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3186403" style="border:none;"></iframe>

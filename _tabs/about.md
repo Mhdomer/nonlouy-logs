@@ -5,13 +5,15 @@ order: 4
 ---
 
 
-**Hi, I'm Muhamed Omar.**
+**Hi there, I'm Muhamed Omar.**
 
-I am a student and networking practitioner with a strong interest in security and cloud. This blog is my public lab notebook where I document what I’m learning, the labs I solve, and projects I build.
+Iam a third year student at ** Universiti Technologi Malaysia ** with a strong interest in netowrking and cloud.
 
-You’ll find detailed walkthroughs, technical write-ups, and notes from platforms like TryHackMe, HackTheBox, Root-Me, and more — all focused on understanding systems and securing them.
+Right now, I’m focusing on building my skills in offensive security, Linux, and networking fundamentals, and I will be using  this blog to document my learning process, projects, and experiments. I’m also working on my final year project FYP1 and tracking its progress here.
 
-**Let’s connect, learn, and build together.**
+You’ll find detailed walkthroughs, technical write ups, and notes from platforms like TryHackMe, HackTheBox, Root-Me, and more.
+
+**Let’s connect,  You can reach me through the links below:**
 
 > 📧 **Email:** [muhamedomar.g@gmail.com](mailto:muhamedomar.g@gmail.com)
 >

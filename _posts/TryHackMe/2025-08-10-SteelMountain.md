@@ -230,11 +230,5 @@ Service Enumeration → Binary Replacement → SYSTEM Access
 
 ---
 
-<iframe 
-  src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3186403" 
-  style="width: 350px; height: 150px; border:none; display: block;">
-</iframe>
-
-
 
 
