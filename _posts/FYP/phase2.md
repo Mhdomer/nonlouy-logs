@@ -8,20 +8,3 @@ author: nonlouy
 ---
 
 ## FYP Phase 1: Research and Planning
-
-### Objectives
-- Literature review
-- Requirements analysis
-- Project planning
-
-### Research Findings
-
-Document your research here...
-
-### Implementation Plan
-
-Outline your approach...
-
-### Timeline
-- Start: February 2026
-- End: April 2026
