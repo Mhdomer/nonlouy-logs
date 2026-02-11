@@ -223,3 +223,13 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+    
+# Change to your timezone › https://zones.arilyn.cc
+timezone: Asia/Kuala_Lumpur
+
+# ...existing code...
+
+# Allow posts with today's date to publish
+future: true
+
+# ...existing code...
